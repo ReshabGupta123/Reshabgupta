@@ -17,7 +17,7 @@
   <a href="[https://www.linkedin.com/in/YOURUSERNAME" target="_blank](https://www.linkedin.com/in/reshab-gupta-12128a335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://www.instagram.com/YOURUSERNAME](https://www.instagram.com/reshabguptaa?igsh=Mzk5NDdmNHluYWJw)" target="_blank">
+  <a href="https://www.instagram.com/reshabguptaa?igsh=Mzk5NDdmNHluYWJw" target="_blank">
     <img src="[https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram](https://www.instagram.com/reshabguptaa?igsh=Mzk5NDdmNHluYWJw)" />
   </a>
   <a href="reshabgupta100@gmail.com" target="_blank">
