@@ -88,7 +88,6 @@
 - ✅ AWS Cloud Practitioner – Amazon
 - 🎓 Full Stack Development – Scaler
 - 🧪 OpenCV Advanced Projects – Coursera
-- 🥇 1st place at Intercollege Webathon (2024)
 
 </details>
 
